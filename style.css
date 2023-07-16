@@ -196,6 +196,11 @@ i {
   padding: 12px;
   background-color: #80bdc4;
   border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+i:hover {
+  background-color: #cc4b8b;
+  scale: 1.2;
 }
 footer {
   width: 75vw;
